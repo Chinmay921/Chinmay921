@@ -82,14 +82,34 @@ class Chinmay:
 
 ## 📈 GitHub Stats & Activity
 
+<!-- Option 1: Using github-readme-stats with your actual username -->
+<!-- Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmaydongarkar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaydongarkar&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaydongarkar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<!-- Option 2: Alternative - GitHub Activity Graph -->
+<!-- Uncomment this if the above doesn't work -->
+<!-- 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" />
+</div>
+-->
+
+<!-- Option 3: Simple GitHub Stats (More Reliable) -->
+<!-- Uncomment this for a more reliable alternative -->
+<!--
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+
+</div>
+-->
 
 ---
 
@@ -128,7 +148,7 @@ class Chinmay:
   <a href="https://www.linkedin.com/in/chinmay-do">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/chinmaydongarkar">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -146,7 +166,7 @@ class Chinmay:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chinmaydongarkar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
@@ -154,4 +174,3 @@ class Chinmay:
 <div align="center">
   <i>💡 Open to collaborations on analytics, AI, and sustainability projects!</i>
 </div>
-
