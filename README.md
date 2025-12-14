@@ -107,38 +107,38 @@ passion_projects:
 
 ## 🚀 Professional Journey
 
-### 🔵 **Bactolife A/S** | *Student Analyst - Business Development*
+### **Bactolife A/S** | *Student Analyst - Business Development*
 `Apr 2025 - Present | Copenhagen, Denmark`
 
 Building the future of gut health supplements through data-driven market expansion
-- 🌎 Analyzing **$50M+ market opportunities** across USA & APAC regions
-- 🎯 Strategic analysis across **8 countries** for competitive positioning
-- 🤖 Developed AI competitor intelligence system (**60% efficiency gain**)
-- 💰 Optimizing pricing strategies for nutraceuticals market entry
+- Analyzing **$50M+ market opportunities** across USA & APAC regions
+- Strategic analysis across **8 countries** for competitive positioning
+- Developed AI competitor intelligence system (**60% efficiency gain**)
+- Optimizing pricing strategies for nutraceuticals market entry
 
-### 🟢 **Quality Management Consultants** | *Sustainability Reporting Analyst*
+### **Quality Management Consultants** | *Sustainability Reporting Analyst*
 `Jul 2024 - Dec 2024 | Pune, India`
 
 Driving sustainability compliance for automotive sector
-- 📊 Quantified GHG emissions for major automotive clients
-- ✅ Achieved **25% improvement** in reporting accuracy
-- 🚗 Aligned emissions data with automotive supply chain for net-zero strategies
+- Quantified GHG emissions for major automotive clients
+- Achieved **25% improvement** in reporting accuracy
+- Aligned emissions data with automotive supply chain for net-zero strategies
 
-### 🟡 **TEMBUSU ASIA** | *Sustainability Analyst Intern*
+### **TEMBUSU ASIA** | *Sustainability Analyst Intern*
 `Feb 2024 - Jun 2024 | Singapore`
 
 ESG consulting for multinational corporations in APAC
-- 🌱 Audited Scope 3 emissions using Singapore sustainability standards
-- 📋 Applied ISSB & TCFD frameworks for carbon reporting transparency
-- 💡 Analyzed carbon pricing & credit mechanisms for net-zero commitments
+- Audited Scope 3 emissions using Singapore sustainability standards
+- Applied ISSB & TCFD frameworks for carbon reporting transparency
+- Analyzed carbon pricing & credit mechanisms for net-zero commitments
 
-### 🔴 **KPMG India** | *Financial Analyst Intern*
+### **KPMG India** | *Financial Analyst Intern*
 `Apr 2023 - Sept 2023 | Hybrid`
 
 Financial analysis & valuation for mid-market companies
-- 📈 Developed DCF & comparable company analysis models
-- 🎯 Improved client forecasting accuracy by **15%**
-- 🔍 Conducted sector analysis across IT services & manufacturing
+- Developed DCF & comparable company analysis models
+- Improved client forecasting accuracy by **15%**
+- Conducted sector analysis across IT services & manufacturing
 
 ---
 
@@ -194,7 +194,6 @@ Financial analysis & valuation for mid-market companies
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaydongarkar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-do)
-[![Phone](https://img.shields.io/badge/Phone-%2B45_91718278-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+4591718278)
 
 </div>
 
@@ -206,6 +205,6 @@ Financial analysis & valuation for mid-market companies
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chinmay921&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-**📍 Currently in Copenhagen | 🚀 Open to collaborations in Analytics, AI & Sustainability**
+**📍 Currently in Copenhagen | 
 
 </div>
