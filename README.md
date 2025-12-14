@@ -82,16 +82,15 @@ class Chinmay:
 
 ## 📈 GitHub Stats & Activity
 
-<!-- Option 1: Using github-readme-stats with your actual username -->
-<!-- Replace 'YOUR_GITHUB_USERNAME' with your actual GitHub username -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chinmay921&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay921&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinmay921&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 <!-- Option 2: Alternative - GitHub Activity Graph -->
 <!-- Uncomment this if the above doesn't work -->
