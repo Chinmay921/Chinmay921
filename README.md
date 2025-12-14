@@ -142,21 +142,6 @@ Financial analysis & valuation for mid-market companies
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| Achievement | Year | Description |
-|------------|------|-------------|
-| 🥇 **Maersk Management Consulting** | 2025 | Winner - Case Solving Competition |
-| 🏸 **Competitive Badminton** | 2016-2024 | 3× Gold Medalist (State & National Level) |
-| 📊 **AI Innovation** | 2025 | 60% efficiency improvement through automation |
-| 🌱 **ESG Excellence** | 2024 | 25% accuracy improvement in emissions reporting |
-
-</div>
-
----
-
 ## 🎓 Education
 
 ```
