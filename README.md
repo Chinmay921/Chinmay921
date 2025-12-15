@@ -167,17 +167,6 @@ mindmap
 
 ## 🤝 Let's Collaborate
 
-<div align="center">
-
-### 💡 Open to collaborating on:
-
-<p>
-  <img src="https://img.shields.io/badge/Quantitative_Finance-📊-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Risk_Modeling-📉-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Business_Analytics-💼-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ML_Libraries-🤖-orange?style=for-the-badge" />
-</p>
-
 ### 📫 Reach out!
 
 **📧 Email:** chinmaydongarkar@gmail.com  
@@ -195,10 +184,6 @@ mindmap
 ### 💭 Quote of the Day
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 
 ---
 
