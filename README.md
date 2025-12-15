@@ -83,7 +83,11 @@ me.say_hi()
     <td width="50%" valign="top">
 
 ### 📊 Portfolio Risk Engine
-<img src="https://media.giphy.com/media/SEWEmCymjv8XDbsb8I/giphy.gif" width="100%" />
+
+<div style="height:220px; overflow:hidden;">
+  <img src="https://media.giphy.com/media/SEWEmCymjv8XDbsb8I/giphy.gif"
+       style="width:100%; height:100%; object-fit:cover;" />
+</div>
 
 <em>Monte Carlo Financial Risk Modeling</em>
 
@@ -96,7 +100,11 @@ me.say_hi()
     <td width="50%" valign="top">
 
 ### 📈 Equity Forecaster
-<img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="100%" />
+
+<div style="height:220px; overflow:hidden;">
+  <img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"
+       style="width:100%; height:100%; object-fit:cover;" />
+</div>
 
 <em>Time-Series Prediction System</em>
 
@@ -112,7 +120,11 @@ me.say_hi()
     <td width="50%" valign="top">
 
 ### 🌍 Macro-Sector Model
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" />
+
+<div style="height:220px; overflow:hidden;">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
+       style="width:100%; height:100%; object-fit:cover;" />
+</div>
 
 <strong>Econometric Analysis Platform</strong>
 
@@ -125,7 +137,11 @@ me.say_hi()
     <td width="50%" valign="top">
 
 ### 🤖 Competitor Intelligence Bot
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" />
+
+<div style="height:220px; overflow:hidden;">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"
+       style="width:100%; height:100%; object-fit:cover;" />
+</div>
 
 <strong>AI Market Monitoring System</strong>
 
@@ -139,6 +155,7 @@ me.say_hi()
 </table>
 
 </div>
+
 
 
 ## 🎯 Current Focus
