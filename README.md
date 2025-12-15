@@ -74,45 +74,42 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<h2>📌 Featured Projects</h2>
+## 📌 Featured Projects
 
-<table width="100%">
-  <tr>
-    <!-- LEFT COLUMN -->
-    <td width="50%" valign="top" align="center">
+<div align="center">
 
-<h3>📊 Portfolio Risk Engine</h3>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://media.giphy.com/media/SEWEmCymjv8XDbsb8I/giphy.gif" width="95%" style="border-radius:8px;">
+### 📊 Portfolio Risk Engine
+<img src="https://media.giphy.com/media/SEWEmCymjv8XDbsb8I/giphy.gif" width="100%">
 
-<p align="left">
-<b>Monte Carlo Financial Risk Modeling</b><br><br>
-🎲 VaR & Expected Shortfall analysis<br>
-🐍 Python with NumPy & Pandas<br>
-📈 10,000+ scenario simulations<br>
-✅ Comprehensive backtesting
-</p>
+*Monte Carlo Financial Risk Modeling*
+•⁠  ⁠🎲 VaR & Expected Shortfall analysis
+•⁠  ⁠🐍 Python with NumPy/Pandas
+•⁠  ⁠📈 10,000+ scenario simulations
+•⁠  ⁠✅ Comprehensive backtesting
 
-    </td>
 
-    <!-- RIGHT COLUMN -->
-    <td width="50%" valign="top" align="center">
+</td>
+<td width="50%" valign="top">
 
-<h3>📈 Equity Forecaster</h3>
+### 📈 Equity Forecaster
+<img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="100%">
 
-<img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="95%" style="border-radius:8px;">
+*Time-Series Prediction System*
+•⁠  ⁠🧠 ARIMA & LSTM models
+•⁠  ⁠📊 Returns & volatility forecasting
+•⁠  ⁠🎯 15% accuracy improvement
+•⁠  ⁠🔄 Full backtesting framework
 
-<p align="left">
-<b>Time-Series Prediction System</b><br><br>
-🧠 ARIMA & LSTM models<br>
-📊 Returns & volatility forecasting<br>
-🎯 15% accuracy improvement<br>
-🔄 Full backtesting framework
-</p>
 
-    </td>
-  </tr>
-</table>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 
 ### 🌍 Macro-Sector Model
