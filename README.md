@@ -83,7 +83,7 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 📊 Portfolio Risk Engine
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
+<img src="https://giphy.com/gifs/MGdfeiKtEiEPS" width="100%">
 
 **Monte Carlo Financial Risk Modeling**
 - 🎲 VaR & Expected Shortfall analysis
