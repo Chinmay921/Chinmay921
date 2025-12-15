@@ -79,63 +79,63 @@ me.say_hi()
 <div align="center">
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 📊 Portfolio Risk Engine
-<img src="https://media.giphy.com/media/SEWEmCymjv8XDbsb8I/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/SEWEmCymjv8XDbsb8I/giphy.gif" width="100%" />
 
-*Monte Carlo Financial Risk Modeling*
-•⁠  ⁠🎲 VaR & Expected Shortfall analysis
-•⁠  ⁠🐍 Python with NumPy/Pandas
-•⁠  ⁠📈 10,000+ scenario simulations
-•⁠  ⁠✅ Comprehensive backtesting
+<em>Monte Carlo Financial Risk Modeling</em>
 
+- 🎲 VaR & Expected Shortfall analysis  
+- 🐍 Python (NumPy, Pandas)  
+- 📈 10,000+ scenario simulations  
+- ✅ Comprehensive backtesting  
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
 ### 📈 Equity Forecaster
-<img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="100%" />
 
-*Time-Series Prediction System*
-•⁠  ⁠🧠 ARIMA & LSTM models
-•⁠  ⁠📊 Returns & volatility forecasting
-•⁠  ⁠🎯 15% accuracy improvement
-•⁠  ⁠🔄 Full backtesting framework
+<em>Time-Series Prediction System</em>
 
+- 🧠 ARIMA & LSTM models  
+- 📊 Returns & volatility forecasting  
+- 🎯 15% accuracy improvement  
+- 🔄 Full backtesting framework  
 
-</td>
-</tr>
+    </td>
+  </tr>
 
-<tr>
-<td width="50%" valign="top">
-
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🌍 Macro-Sector Model
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" />
 
-**Econometric Analysis Platform**
-- 📉 Macro indicators → Sectoral profit
-- 📊 R-based analytics
-- 🔄 Automated data pipelines
-- 🎯 8+ sectors covered
+<strong>Econometric Analysis Platform</strong>
 
-</td>
-<td width="50%" valign="top">
+- 📉 Macro indicators → sectoral profits  
+- 📊 R-based analytics  
+- 🔄 Automated data pipelines  
+- 🎯 8+ sectors covered  
+
+    </td>
+    <td width="50%" valign="top">
 
 ### 🤖 Competitor Intelligence Bot
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" />
 
-**AI Market Monitoring System**
-- 🔍 Automated data collection
-- 🤖 GPT-powered analysis
-- ⚡ 60% time reduction
-- 🔄 N8N workflow automation
+<strong>AI Market Monitoring System</strong>
 
+- 🔍 Automated data collection  
+- 🤖 GPT-powered analysis  
+- ⚡ 60% time reduction  
+- 🔄 n8n workflow automation  
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 </div>
