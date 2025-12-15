@@ -1,195 +1,232 @@
 <div align="center">
   
-# 👋 Hey, I'm Chinmay Dongarkar
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Chinmay+%F0%9F%91%8B;Business+Analytics+%7C+Quant+Finance;Building+Data-Driven+Solutions;MSc+%40+DTU+Copenhagen" alt="Typing SVG" />
+  
+  <p align="center">
+    <a href="mailto:chinmaydongarkar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/chinmay-do"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  
+</div>
 
-### Business & Strategy Analyst | Data Storyteller | Sustainability Advocate
+## 🚀 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+business+solutions;Turning+data+into+strategic+insights;Driving+growth+through+analytics;Copenhagen+%F0%9F%87%A9%F0%9F%87%B0+%7C+Badminton+%F0%9F%8F%B8+%7C+Tech+%F0%9F%92%BB" alt="Typing SVG" />
+```python
+class Chinmay:
+    def __init__(self):
+        self.role = "Business Analyst | Data Scientist"
+        self.location = "Copenhagen, Denmark 🇩🇰"
+        self.education = "MSc Business Analytics @ DTU"
+        self.currently_working_on = [
+            "Market Intelligence Automation @ Bactolife A/S",
+            "Time-Series Forecasting Models",
+            "Open Finance Tools"
+        ]
+        self.interests = [
+            "Quantitative Finance",
+            "Risk Modeling", 
+            "Machine Learning",
+            "Business Strategy"
+        ]
+    
+    def say_hi(self):
+        print("Let's build something data-driven together!")
+
+me = Chinmay()
+me.say_hi()
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages & Core Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+### 📊 Data Science & ML
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🎯 About Me
+## 📌 Featured Projects
 
-I'm a strategic analyst who lives at the intersection of **data, economics, and business strategy**. Currently pursuing dual master's degrees while working on AI-driven market intelligence solutions at Bactolife A/S in Copenhagen.
-
-```yaml
-current_focus:
-  role: "Student Analyst - Business Development @ Bactolife A/S"
-  location: "Copenhagen, Denmark 🇩🇰"
-  mission: "Leveraging analytics & AI to solve complex commercial challenges"
-  
-education:
-  - "MSc Business Analytics @ DTU (2025-2027)"
-  - "MSc Economics @ Symbiosis International (2025-2027)"
-  
-passion_projects:
-  - "Building AI competitor intelligence systems"
-  - "Market entry modeling for $50M+ opportunities"
-  - "ESG & sustainability reporting frameworks"
-```
-
----
-
-## 💼 What I Do
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Strategic Analysis
-- Market entry modeling & opportunity sizing
-- Competitive intelligence & positioning
-- Pricing strategy optimization
-- Financial modeling (DCF, comps analysis)
+### 📊 Portfolio Risk Engine
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
+
+**Monte Carlo Financial Risk Modeling**
+- 🎲 VaR & Expected Shortfall analysis
+- 🐍 Python with NumPy/Pandas
+- 📈 10,000+ scenario simulations
+- ✅ Comprehensive backtesting
+
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/portfolio-risk-engine)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & Automation
-- AI agent development & automation
-- Competitor monitoring systems (60% time savings)
-- Predictive modeling & ML applications
-- Data pipeline automation
+### 📈 Equity Forecaster
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%">
+
+**Time-Series Prediction System**
+- 🧠 ARIMA & LSTM models
+- 📊 Returns & volatility forecasting
+- 🎯 15% accuracy improvement
+- 🔄 Full backtesting framework
+
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/equity-forecaster)
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-### 🌱 Sustainability & ESG
-- GHG emissions quantification
-- ISSB & TCFD framework implementation
-- Carbon accounting & net-zero strategies
-- ESG reporting for multinationals
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Macro-Sector Model
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%">
+
+**Econometric Analysis Platform**
+- 📉 Macro indicators → Sectoral profit
+- 📊 R-based analytics
+- 🔄 Automated data pipelines
+- 🎯 8+ sectors covered
+
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/macro-sector-model)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📈 Data Analytics
-- Statistical analysis & visualization
-- Business intelligence dashboards
-- Market research & trend analysis
-- Advanced Excel & Python modeling
+### 🤖 Competitor Intelligence Bot
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%">
+
+**AI Market Monitoring System**
+- 🔍 Automated data collection
+- 🤖 GPT-powered analysis
+- ⚡ 60% time reduction
+- 🔄 N8N workflow automation
+
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/competitor-intel-bot)
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### Core Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## 📊 GitHub Analytics
 
-### Business Intelligence
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-### Cloud & Data Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-### Specialized Skills
-```
-📊 Machine Learning & Predictive Modeling    🎯 Financial Modeling & Valuation
-🌍 ESG Reporting (ISSB, TCFD)                🤖 AI Agent Development (N8N)
-📈 Market Intelligence & Research            💹 Statistical Analysis
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🚀 Professional Journey
+## 🎯 Current Focus
 
-### **Bactolife A/S** | *Student Analyst - Business Development*
-`Apr 2025 - Present | Copenhagen, Denmark`
-
-Building the future of gut health supplements through data-driven market expansion
-- Analyzing **$50M+ market opportunities** across USA & APAC regions
-- Strategic analysis across **8 countries** for competitive positioning
-- Developed AI competitor intelligence system (**60% efficiency gain**)
-- Optimizing pricing strategies for nutraceuticals market entry
-
-### **Quality Management Consultants** | *Sustainability Reporting Analyst*
-`Jul 2024 - Dec 2024 | Pune, India`
-
-Driving sustainability compliance for automotive sector
-- Quantified GHG emissions for major automotive clients
-- Achieved **25% improvement** in reporting accuracy
-- Aligned emissions data with automotive supply chain for net-zero strategies
-
-### **TEMBUSU ASIA** | *Sustainability Analyst Intern*
-`Feb 2024 - Jun 2024 | Singapore`
-
-ESG consulting for multinational corporations in APAC
-- Audited Scope 3 emissions using Singapore sustainability standards
-- Applied ISSB & TCFD frameworks for carbon reporting transparency
-- Analyzed carbon pricing & credit mechanisms for net-zero commitments
-
-### **KPMG India** | *Financial Analyst Intern*
-`Apr 2023 - Sept 2023 | Hybrid`
-
-Financial analysis & valuation for mid-market companies
-- Developed DCF & comparable company analysis models
-- Improved client forecasting accuracy by **15%**
-- Conducted sector analysis across IT services & manufacturing
-
----
-
-## 🎓 Education
-
-```
-🎯 MSc Business Analytics
-   Technical University of Denmark (DTU), Copenhagen
-   Jan 2025 - Jan 2027 (Expected)
-   
-📊 MSc Economics (Online)
-   Symbiosis International University, Pune
-   Sept 2025 - Sept 2027 (Expected)
-   
-📈 Diploma in Quantitative Economics
-   Symbiosis School of Economics, Pune
-   2022 - 2023 | GPA: 2.94/4.0
-   
-💻 BSc Computer Science
-   Savitribai Phule Pune University, Pune
-   2020 - 2023 | GPA: 2.95/4.0
+```mermaid
+mindmap
+  root((Chinmay))
+    Finance
+      Risk Modeling
+      Portfolio Optimization
+      Time Series
+    Analytics
+      Business Intelligence
+      Market Research
+      Competitive Analysis
+    Tech
+      Python/R
+      ML/AI
+      Cloud Infrastructure
+    Learning
+      Quantitative Finance
+      Deep Learning
+      Financial Engineering
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🌍 Beyond the Spreadsheets
-
-- 🏸 **8+ years** of competitive badminton at state & national levels
-- 🌐 Fluent in **English**, native in **Hindi**, learning **German** (A2)
-- 🇩🇰 Living the Copenhagen dream while exploring Nordic business culture
-- 🎯 Passionate about the intersection of **AI, sustainability, and business strategy**
-
----
-
-## 📫 Let's Connect!
+## 🤝 Let's Collaborate
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmaydongarkar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-do)
+### 💡 Open to collaborating on:
+
+<p>
+  <img src="https://img.shields.io/badge/Quantitative_Finance-📊-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Risk_Modeling-📉-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business_Analytics-💼-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML_Libraries-🤖-orange?style=for-the-badge" />
+</p>
+
+### 📫 Reach out!
+
+**📧 Email:** chinmaydongarkar@gmail.com  
+**💼 LinkedIn:** [linkedin.com/in/chinmay-do](https://linkedin.com/in/chinmay-do)  
+**📍 Location:** Copenhagen, Denmark
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
   
-### 💭 *"Transforming data into decisions, complexity into clarity, and insights into impact."*
+### 💭 Quote of the Day
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chinmay921&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+### 👀 Profile Views
 
-**📍 Currently in Copenhagen | 
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**⭐ From [Chinmay](https://github.com/yourusername) | Built with 💙 in Copenhagen**
 
 </div>
