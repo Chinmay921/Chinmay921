@@ -91,7 +91,6 @@ me.say_hi()
 - 📈 10,000+ scenario simulations
 - ✅ Comprehensive backtesting
 
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/portfolio-risk-engine)
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +104,6 @@ me.say_hi()
 - 🎯 15% accuracy improvement
 - 🔄 Full backtesting framework
 
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/equity-forecaster)
 
 </td>
 </tr>
@@ -122,8 +120,6 @@ me.say_hi()
 - 🔄 Automated data pipelines
 - 🎯 8+ sectors covered
 
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/macro-sector-model)
-
 </td>
 <td width="50%" valign="top">
 
@@ -136,15 +132,12 @@ me.say_hi()
 - ⚡ 60% time reduction
 - 🔄 N8N workflow automation
 
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/competitor-intel-bot)
 
 </td>
 </tr>
 </table>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
