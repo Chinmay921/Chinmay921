@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Chinmay+%F0%9F%91%8B;Business+Analytics+%7C+Quant+Economics;Data-Driven+Solutions;MSc+%40+DTU+Copenhagen" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Chinmay+%F0%9F%91%8B;Business+Analytics+%7C+Quant+Economics;Data-Driven+Solutions;Dual+Masters+%40+DTU+%26+SSODL" alt="Typing SVG" />
   
   <p align="center">
     <a href="mailto:chinmaydongarkar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -19,17 +19,21 @@ class Chinmay:
     def __init__(self):
         self.role = "Business Analyst | Data Scientist"
         self.location = "Copenhagen, Denmark 🇩🇰"
-        self.education = "MSc Business Analytics @ DTU"
+        self.education = {
+            "masters_1": "MSc Business Analytics @ DTU Copenhagen",
+            "masters_2": "MSc Economics (Online) @ SSODL"
+        }
         self.currently_working_on = [
             "Market Intelligence Automation @ Bactolife A/S",
             "Time-Series Forecasting Models",
-            "Open Finance Tools"
+            "Quantitative Risk Modeling"
         ]
         self.interests = [
             "Quantitative Finance",
             "Risk Modeling", 
             "Machine Learning",
-            "Business Strategy"
+            "Business Strategy",
+            "Econometric Analysis"
         ]
     
     def say_hi(self):
@@ -74,137 +78,37 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 📌 Featured Projects
+## 📈 GitHub Stats
 
 <div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📊 Portfolio Risk Engine
-
-<div style="height:220px; overflow:hidden;">
-  <img src="https://media.giphy.com/media/SEWEmCymjv8XDbsb8I/giphy.gif"
-       style="width:100%; height:100%; object-fit:cover;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" width="48%" />
+  
 </div>
-
-<em>Monte Carlo Financial Risk Modeling</em>
-
-- 🎲 VaR & Expected Shortfall analysis  
-- 🐍 Python (NumPy, Pandas)  
-- 📈 10,000+ scenario simulations  
-- ✅ Comprehensive backtesting  
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📈 Equity Forecaster
-
-<div style="height:220px; overflow:hidden;">
-  <img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"
-       style="width:100%; height:100%; object-fit:cover;" />
-</div>
-
-<em>Time-Series Prediction System</em>
-
-- 🧠 ARIMA & LSTM models  
-- 📊 Returns & volatility forecasting  
-- 🎯 15% accuracy improvement  
-- 🔄 Full backtesting framework  
-
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌍 Macro-Sector Model
-
-<div style="height:220px; overflow:hidden;">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"
-       style="width:100%; height:100%; object-fit:cover;" />
-</div>
-
-<strong>Econometric Analysis Platform</strong>
-
-- 📉 Macro indicators → sectoral profits  
-- 📊 R-based analytics  
-- 🔄 Automated data pipelines  
-- 🎯 8+ sectors covered  
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🤖 Competitor Intelligence Bot
-
-<div style="height:220px; overflow:hidden;">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"
-       style="width:100%; height:100%; object-fit:cover;" />
-</div>
-
-<strong>AI Market Monitoring System</strong>
-
-- 🔍 Automated data collection  
-- 🤖 GPT-powered analysis  
-- ⚡ 60% time reduction  
-- 🔄 n8n workflow automation  
-
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Chinmay))
-    Finance
-      Risk Modeling
-      Portfolio Optimization
-      Time Series
-    Analytics
-      Business Intelligence
-      Market Research
-      Competitive Analysis
-    Tech
-      Python/R
-      ML/AI
-      Cloud Infrastructure
-    Learning
-      Quantitative Finance
-      Deep Learning
-      Financial Engineering
-```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## 🤝 Let's Collaborate
 
-### 📫 Reach out!
+<div align="center">
+
+### 📫 Reach Out!
 
 **📧 Email:** chinmaydongarkar@gmail.com  
 **💼 LinkedIn:** [linkedin.com/in/chinmay-do](https://linkedin.com/in/chinmay-do)  
 **📍 Location:** Copenhagen, Denmark
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<div align="center">
-  
 ### 💭 Quote of the Day
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 **⭐ From [Chinmay](https://github.com/Chinmay921)**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 </div>
