@@ -17,27 +17,30 @@
 ```python
 class Chinmay:
     def __init__(self):
-        self.role = "Business Analyst | Data Scientist"
+        self.role = "Business Analyst | Data-Driven Decision Making"
         self.location = "Copenhagen, Denmark 🇩🇰"
         self.education = {
             "masters_1": "MSc Business Analytics @ DTU Copenhagen",
             "masters_2": "MSc Economics (Online) @ SSODL"
         }
         self.currently_working_on = [
-            "Market Intelligence Automation @ Bactolife A/S",
-            "Time-Series Forecasting Models",
-            "Quantitative Risk Modeling"
+            "Automating Reporting & KPI Dashboards",
+            "Data-Driven Strategy & Forecasting"
+        ]
+        self.core_skills = [
+            "Business Analysis",
+            "Data Visualization (Power BI / Tableau)",
+            "Process Optimization"
         ]
         self.interests = [
-            "Quantitative Finance",
-            "Risk Modeling", 
-            "Machine Learning",
             "Business Strategy",
-            "Econometric Analysis"
+            "Market Intelligence",
+            "Decision Science",
+            "Financial & Risk Analysis"
         ]
     
     def say_hi(self):
-        print("Let's build something data-driven together!")
+        print("Turning data into actionable business insights 🚀")
 
 me = Chinmay()
 me.say_hi()
